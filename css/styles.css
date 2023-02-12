@@ -1,0 +1,243 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+html,
+body {
+
+  position: relative;
+}
+
+body {
+  overflow-y: auto;
+  min-height: 100vh;
+}
+
+textarea:focus,
+input:focus {
+  outline: none;
+}
+
+a {
+  color: inherit !important;
+  text-decoration: none !important;
+}
+
+footer {
+  background: #f1f1f1;
+  width: 100%;
+  padding: 16px 0px;
+  color: #999;
+  vertical-align: bottom;
+  margin-top: 40px;
+  text-align: center;
+  width: 100%;
+
+}
+
+.banner {
+  height: 500px;
+  width: 100%;
+  background: #999;
+  margin: 20px 0px;
+}
+
+.content {
+  padding: 20px 0px;
+}
+
+
+.tile {
+  height: 100%;
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  border-radius: 7px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+
+
+}
+
+
+img {
+  height: 100%;
+  width: 100%;
+}
+
+.tile img:hover {
+  cursor: pointer;
+  transition: 0.4s ease-out;
+  transform: scale(1.1);
+  filter: brightness(60%);
+  border-radius: 7px;
+
+
+}
+
+.tile-text {
+  position: absolute;
+  z-index: 1;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  letter-spacing: 2px;
+  color: white;
+}
+
+.hero-image {
+  position: relative;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("/QTripStatic/assets/assets/hero.jpg");
+  background-position: center;
+  height: 500px;
+  background-size: cover;
+  width: 100%;
+
+
+
+}
+
+.hero-subheading {
+
+  font-size: 24px;
+  font-weight: 100;
+}
+
+.hero-input {
+  width: 80%;
+  height: 50px;
+  padding: 16px;
+  border-radius: 8px;
+  border: none;
+}
+
+.nav-link {
+  margin-right: 36px;
+}
+
+.experience-content ul li {
+  margin-left: 16px;
+  padding: 0;
+}
+
+@media only screen and (min-width: 768px) {
+
+
+  #reservation {
+    width: 400px;
+    position: fixed;
+
+  }
+
+}
+
+/* .........................................ADV............................................ */
+
+.card-outsider {
+
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+
+
+
+}
+
+.adventure-card {
+  width: 100%;
+  height: 100%;
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+
+}
+
+.adventure-card img {
+
+  height: 20em;
+  width: 100%;
+  transition: 0.2s all;
+  border-top: 1px solid #e6e6e6;
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+  overflow: hidden;
+  object-fit: fill;
+}
+
+
+.adventure-details-card {
+
+  height: 8vh;
+  display: flex;
+  border: 2px solid #E6E7E7;
+  justify-content: space-between;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  padding: 10px;
+
+
+}
+
+@media only screen and (max-width: 768px) {
+  .adventure-details-card {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 50px;
+
+  }
+
+
+}
+
+.adventure-card-grid img:hover {
+  filter: brightness(70%);
+
+
+}
+
+/* .......................................... Detailed Page............................. */
+
+
+.adventure-page {
+  border: 1px solid #e6e6e6;
+  border-radius: 5px;
+
+}
+.adventure-card-inside {
+  height: 100%;
+}
+
+
+
+
+@media only screen and (max-width: 992px) {
+
+  .sold-out {
+    border: 1px solid #e6e6e6;
+    border-radius: 5px;
+    margin-top: 10px;
+
+  }
+
+ 
+
+}
+@media only screen and (min-width:992px) {
+
+  .sold-out-inner{
+    border: 1px solid #e6e6e6;
+  border-radius: 5px;
+  position: fixed;
+  margin-right: 0.7em;
+    position: sticky;
+    top: 10px; /* position the element at the top of its parent container */
+ 
+ 
+
+  }
+ 
+  
+}
