@@ -89,7 +89,7 @@ img {
 .hero-image {
   position: relative;
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("/QTripStatic/assets/assets/hero.jpg");
+  url(/QTripStatic/assets/assets/hero.jpg);
   background-position: center;
   height: 500px;
   background-size: cover;
