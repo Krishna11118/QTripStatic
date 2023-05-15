@@ -89,7 +89,7 @@ img {
 .hero-image {
   position: relative;
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-  url(/QTripStatic/assets/assets/hero.jpg);
+    url("/assets/assets/hero.jpg");
   background-position: center;
   height: 500px;
   background-size: cover;
@@ -230,11 +230,8 @@ img {
   .sold-out-inner{
     border: 1px solid #e6e6e6;
   border-radius: 5px;
-  position: fixed;
-  margin-right: 0.7em;
-    position: sticky;
-    top: 10px; /* position the element at the top of its parent container */
- 
+  position: sticky;
+  top:10px;
  
 
   }
