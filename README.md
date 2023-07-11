@@ -1,1 +1,3 @@
 # QTripStatic
+
+A static website
