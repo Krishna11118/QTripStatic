@@ -1,6 +1,8 @@
 
 
-  <p>QTrip is a travel website aimed at travelers looking for a multitude of adventures in different cities. /p>
+  <p>QTrip is a travel website aimed at travelers looking for a multitude of adventures in different cities. 
+  Created 3 different web pages from Wireframe layout using HTML and CSS
+Utilized Bootstrap extensively for responsive design</p>
 
 ![](https://github.com/Krishna11118/QTripStatic/blob/main/examples/QTripStatic_Gif.gif)
 
