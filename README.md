@@ -20,9 +20,18 @@ List of frameworks/libraries/languages that were used to built this project .
 
 <h2>Screenshots</h2>
 <br>
-
+<h3>Landing Page </h3>
 <div align='center'>
-<img src='https://res.cloudinary.com/dvjnxuxxj/image/upload/v1687634312/PortFolio_Readme/bzd5pgb9ypck5ik9mt2k.png'/>
+<img src='https://github.com/Krishna11118/QTripStatic/blob/main/examples/Qtrip_Static_1.png'/>
+
+<h3>Landing Page </h3>
+<div align='center'>
+<img src='https://github.com/Krishna11118/QTripStatic/blob/main/examples/Qtrip_Static_2.png'/>
+
+<h3>Landing Page </h3>
+<div align='center'>
+<img src='https://github.com/Krishna11118/QTripStatic/blob/main/examples/Qtrip_Static_3.png'/>
+
 
 
 
