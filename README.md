@@ -4,22 +4,21 @@
 
   <p>Welcome to my self-portfolio website! This unique and visually stunning platform showcases my skills, experiences, and projects, highlighting my journey as a developer. Built with the powerful combination of React.js, SCSS, HTML, and JavaScript, this website offers an interactive and engaging experience for visitors.</p>
 
-![](https://github.com/Krishna11118/portfolio/blob/main/examples/ProfitFolio_Gif.gif)
+![](https://github.com/Krishna11118/portfolio/examples/QTripStatic_Gif.gif)
 
 
-👉 Live Demo: <a href='https://krishnaaportfolio.netlify.app/'>Live Demo</a>
+👉 Live Demo: <a href='https://krishna-qtrip.netlify.app/'>Live Demo</a>
 
 
 List of frameworks/libraries/languages that were used to built this project .
 
-* [![React][React.js]][React-url]
-* [![Scss][Scss]][Scss-url]
+
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![Css][Css.com]][Css-url]
 * [![Html][Html.com]][Html-url]
 * [![Js][Js.com]][Js-url]
 
-<h2>Screenshot</h2>
+<h2>Screenshots</h2>
 <br>
 
 <div align='center'>
