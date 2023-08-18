@@ -23,16 +23,16 @@ List of frameworks/libraries/languages that were used to built this project .
 <h3>Landing Page </h3>
 <div align='center'>
 <img src='https://github.com/Krishna11118/QTripStatic/blob/main/examples/Qtrip_Static_1.png'/>
-</div>
 
 <h3>Adventure Page </h3>
 <div align='center'>
 <img src='https://github.com/Krishna11118/QTripStatic/blob/main/examples/Qtrip_Static_2.png'/>
+</div>
 
-<h3>Landing Page </h3>
+<h3>Adventure Detailed Page </h3>
 <div align='center'>
 <img src='https://github.com/Krishna11118/QTripStatic/blob/main/examples/Qtrip_Static_3.png'/>
-
+</div>
 
 
 
